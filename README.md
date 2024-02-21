@@ -8,7 +8,7 @@ Before you embark on this visual journey, make sure you have the necessary tools
 
 pip install matplotlib pandas
 
-Usage
+# Usage
 
 1. Set the file_path variable in the script to the path of your Excel file containing the intriguing population data:
 
@@ -19,17 +19,17 @@ file_path = "D:\OneDrive\Prodigy InfoTech\India_population_data.xls"
 
 python script_name.py
 
-Script Illumination
+# Script Illumination
 
 - The script meticulously extracts years and corresponding population data from the specified Excel file.
 - It orchestrates a beautifully organized Pandas DataFrame.
 - A captivating bar plot is crafted using matplotlib to bring the population trends to life!
 
-Personalization
+# Personalization
 
 Feel free to tweak the file_path variable if your Excel file resides in a different directory.
 
-Dependencies
+# Dependencies
 
 - matplotlib
 - pandas
