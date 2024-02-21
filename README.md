@@ -12,7 +12,7 @@ pip install matplotlib pandas
 
 1. Set the file_path variable in the script to the path of your Excel file containing the intriguing population data:
 
-# Set the file path to the Excel file containing population data
+Set the file path to the Excel file containing population data
 file_path = "D:\OneDrive\Prodigy InfoTech\India_population_data.xls"
 
 2. Execute the script and witness the magic unfold:
