@@ -5,8 +5,9 @@ Welcome to the India Population Data Visualization project! This Python script u
 # Prerequisites
 
 Before you embark on this visual journey, make sure you have the necessary tools installed:
-
+```bash
 pip install matplotlib pandas
+```
 
 # Usage
 
